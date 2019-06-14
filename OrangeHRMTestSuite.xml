@@ -5,7 +5,7 @@
 		<listener class-name="com.orangehrm.qa.testlisteners.TestListener" />
 	</listeners>
 
-	<parameter name="browserType" value="chrome" />
+	<parameter name="browserType" value="firefox" />
 	<parameter name="appURL"
 		value="https://opensource-demo.orangehrmlive.com/" />
 

@@ -41,7 +41,7 @@ public class LoginPageTest extends TestBase {
 
 		TestBase.childTest.log(Status.INFO, "Verifying Login functionality");
 
-		assertTrue(driver.getTitle().contains("CRM"));
+		assertTrue(driver.getTitle().contains("OrangeHRM"));
 
 	}
 
